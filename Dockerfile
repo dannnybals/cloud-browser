@@ -1,1 +1,1 @@
-FROM lscr.io/linuxserver/chromium:latest
+FROM jlesage/firefox:latest
